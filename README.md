@@ -6,9 +6,9 @@ Test scripts:
 - test_wine_dataset.m
 - test_wine_dataset_allsurr.m
 
-To reproduce the figures of the manuscript run:
-- run1
-- run2
+To reproduce the figures of the manuscript:
+- run_fig1_toy_example.m
+- run_fig23_particle.m
     
 
 # References
