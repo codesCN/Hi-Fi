@@ -3,7 +3,8 @@
 To disentangle high-order effects involving a given input feature in regression problems.
 
 Test scripts:
-- test_wine.m
+- test_wine_dataset.m
+- test_wine_dataset_allsurr.m
 
 To reproduce the figures of the manuscript run:
 - run1
