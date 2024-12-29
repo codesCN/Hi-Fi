@@ -8,7 +8,9 @@ Test scripts:
 
 To reproduce the figures of the manuscript:
 - run_fig1_toy_example.m
-- run_fig23_particle_dataset.m  The particle dataset is from kaggle (https://www.kaggle.com/datasets/naharrison/particle-identification-from-detector-responses)
+- run_fig23_particle_dataset.m
+
+The particle dataset is from kaggle (https://www.kaggle.com/datasets/naharrison/particle-identification-from-detector-responses). Download and save to the example_dataset folder.
     
 
 # References
