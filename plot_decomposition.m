@@ -7,6 +7,8 @@ function plot_decomposition(dU, dR, dS, dLOC, dbiv, x_names, str_hifi)
             0.9290 0.6940 0.1250; ...
             0.3010 0.7450 0.9330]; 
 
+    x_names = categorical(x_names);
+    
     fs = str_hifi.fontSizeFig;
 
     h = figure;
